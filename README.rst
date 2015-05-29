@@ -27,7 +27,7 @@ Contents
 
 
 
-.. _Filament Stand: filament_stant/index.rst
+.. _Filament Stand: filament_stand/index.rst
 
 .. _Controller Mods: controller/index.rst
 
