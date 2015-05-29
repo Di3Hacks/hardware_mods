@@ -19,6 +19,9 @@ Contents
 
 `Axis Mods`_ 
 
+`Build Plate`_ 
+
+
 `Controller Mods`_ 
 
 `Filament Stand`_ 
@@ -27,6 +30,8 @@ Contents
 
 
 .. _Axis Mods: axis/README.rst
+
+.. _Build Plate: build_plate/README.rst
 
 .. _Controller Mods: controller/README.rst
 
