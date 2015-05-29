@@ -12,7 +12,7 @@ Using Filament Spools With A Narrow Center Hole
 
 The spool holder that comes with your Duplicator i3 is a standard diameter which will fit most filament reels. However, there are many different sized spools and we want you to be able to use all of them with your Duplicator i3. Below is the STL for a filament spool holder that will fit in Taulman-sized filament spools. In addition to the STL listed below you can also customize your own spool holder by going HERE. 
 
-.. figure:: narrow-spool-holder.png
+.. figure:: narrow_spool_holder.png
 
    `Narrower Spool Holder (Taulman-Sized) STL`_ 
    
