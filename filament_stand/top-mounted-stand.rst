@@ -22,10 +22,16 @@ This adapter allows you to feed filament from directly above the extruder withou
 
 .. figure:: di3_filament_stand_adapter.png
 
-	`Di3_Filament_Stand_Adapter.stl`_
+	`Di3 Filament Stand Adapter STL`_ 
+
 
 
 .. figure:: big_di3_filament_stand_adapter.png
 
 
-	`BIG_Di3_Filament_Stand_Adapter.stl`_
+	`Di3 Filament Stand Adapter STL`_
+
+
+
+.. _Di3 Filament Stand Adapter STL: https://github.com/Di3Hacks/hardware_mods/blob/master/filament_stand/Di3_Filament_Stand_Adapter.stl
+.. _Big Di3 Filament Stand Adapter STL: https://github.com/Di3Hacks/hardware_mods/blob/master/filament_stand/BIG_Di3_Filament_Stand_Adapter.stl
