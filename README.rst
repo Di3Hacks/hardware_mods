@@ -26,12 +26,11 @@ Contents
 
 
 
+.. _Axis Mods: axis/README.rst
 
-.. _Filament Stand: filament_stand/index.rst
+.. _Controller Mods: controller/README.rst
 
-.. _Controller Mods: controller/index.rst
-
-.. _Axis Mods: axis/index.rst
+.. _Filament Stand: filament_stand/README.rst
 
 
 .. _Creative Commons license: https://creativecommons.org/choose/
