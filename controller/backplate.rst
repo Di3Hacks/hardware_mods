@@ -1,11 +1,11 @@
-**************
-Backplate Mods
-**************
+***************
+Controller Mods
+***************
 
 Controller Backplate
 ====================
 
-Author: @jamesarm97
+Author: James Armstrong
 
 URL: https://github.com/jamesarm97/wanhao_i3/tree/master/Hardware/Controller
 
